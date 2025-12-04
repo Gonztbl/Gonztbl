@@ -65,12 +65,11 @@ I'm a final-year **Computer Science student** at **Hanoi University of Industry*
 | **[⚡ Automated Social Pipeline](https://github.com/Gonztbl)** | *Private Repo/Enterprise Solution.* A workflow that auto-generates content & images using GenAI and posts to FB, Zalo, Telegram from a single input. | n8n, OpenAI API, Webhooks |
 
 ---
+
 ### 📊 GitHub Stats
 
 <div align="center">
-<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gonztbl&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gonztbl&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <!-- Footer Animation -->

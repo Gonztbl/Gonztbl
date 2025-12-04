@@ -68,13 +68,7 @@ I'm a final-year **Computer Science student** at **Hanoi University of Industry*
 ### 📊 GitHub Stats
 
 <div align="center">
-
-[![Gonztbl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gonztbl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonztbl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
-
 <br/>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gonztbl&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>

@@ -65,21 +65,19 @@ I'm a final-year **Computer Science student** at **Hanoi University of Industry*
 | **[⚡ Automated Social Pipeline](https://github.com/Gonztbl)** | *Private Repo/Enterprise Solution.* A workflow that auto-generates content & images using GenAI and posts to FB, Zalo, Telegram from a single input. | n8n, OpenAI API, Webhooks |
 
 ---
-
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gonztbl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Gonztbl's Github Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gonztbl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
-</div>
+
+[![Gonztbl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gonztbl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonztbl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gonztbl&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gonztbl&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
----
+</div>
 
 <!-- Footer Animation -->
 <div align="center">

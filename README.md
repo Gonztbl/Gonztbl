@@ -14,7 +14,7 @@
 <div align="center">
   
   <!-- Social Links -->
-  <a href="https://www.linkedin.com/in/long-trinh-bao">
+  <a href="https://www.linkedin.com/in/long-tr%E1%BB%8Bnh-b%E1%BA%A3o-485366317/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:longtrinh.28072004@gmail.com">

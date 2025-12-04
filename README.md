@@ -1,6 +1,6 @@
 <!-- Banner Section (Optional: You can add a header image here) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=250&section=header&text=H Hi%20there,%20I'm%20Trinh%20Bao%20Long!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Automation%20Enthusiast&descAlignY=51&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=250&section=header&text=%10Hi%20there,%20I'm%20Trinh%20Bao%20Long!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Automation%20Enthusiast&descAlignY=51&descAlign=50" />
 </div>
 
 <div align="center">

@@ -65,14 +65,32 @@ I'm a final-year **Computer Science student** at **Hanoi University of Industry*
 | **[⚡ Automated Social Pipeline](https://github.com/Gonztbl)** | *Private Repo/Enterprise Solution.* A workflow that auto-generates content & images using GenAI and posts to FB, Zalo, Telegram from a single input. | n8n, OpenAI API, Webhooks |
 
 ---
+<!-- GitHub Trophies (Cúp thành tích) -->
+### 🏆 GitHub Trophies
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Gonztbl&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+</div>
 
 ### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gonztbl&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
-
-<!-- Footer Animation -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://github.com/Gonztbl/Gonztbl/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+<!-- Footer & Social -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/long-tr%E1%BB%8Bnh-b%E1%BA%A3o-485366317/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:longtrinh.28072004@gmail.com">
+    <img src="https://img.shields.io/badge/Send_an_Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gonztbl&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </div>

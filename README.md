@@ -72,6 +72,11 @@ I'm a final-year **Computer Science student** at **Hanoi University of Industry*
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gonztbl&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
+<!-- 3D City Animation -->
+### 🏙️ My Coding Activity in 3D
+<div align="center">
+  <img src="https://github.com/Gonztbl/Gonztbl/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D City" />
+</div>
 <div align="center">
   <img src="https://github.com/Gonztbl/Gonztbl/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>

@@ -66,24 +66,36 @@ I'm a final-year **Computer Science student** at **Hanoi University of Industry*
 
 ---
 
-
 ### 📊 GitHub Stats
+
 <div align="center">
-  <!-- Sử dụng cùng theme radical cho nhất quán -->
-  <img src="https://github.com/Gonztbl/Gonztbl/blob/main/profile-summary-card-output/radical/3-stats.svg" alt="GitHub Stats" />
+  <!-- Activity Graph - Hàng trên cùng (full width) -->
+  <img width="100%" src="https://github.com/Gonztbl/Gonztbl/blob/main/profile-summary-card-output/radical/0-profile-details.svg" alt="GitHub Activity Graph" />
 </div>
-### 📈 Activity Graph
-<div align="center">
-  <img src="https://github.com/Gonztbl/Gonztbl/blob/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" />
-  <img src="https://github.com/Gonztbl/Gonztbl/blob/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top Languages" />
+
+<div align="center" style="margin-top: 20px;">
+  <!-- Two cards in one row - Hàng dưới cùng -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gonztbl&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gonztbl&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
-### 🏙️ My Coding Activity in 3D
+
+---
+
+### 🏙️ My Coding Activity
+
 <div align="center">
-  <img src="https://github.com/Gonztbl/Gonztbl/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D City" />
+  <!-- 3D City -->
+  <img width="100%" src="https://github.com/Gonztbl/Gonztbl/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D City Contribution Graph" />
 </div>
+
 <div align="center">
+  <!-- Snake Animation -->
   <img src="https://github.com/Gonztbl/Gonztbl/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+---
+
 <!-- Footer & Social -->
 <div align="center">
   <a href="https://www.linkedin.com/in/long-tr%E1%BB%8Bnh-b%E1%BA%A3o-485366317/">

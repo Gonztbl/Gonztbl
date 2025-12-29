@@ -33,9 +33,9 @@
 
 I'm a final-year **Computer Science student** at **Hanoi University of Industry** with a strong passion for **Applied AI** and **Backend Engineering**. I don't just train models; I build production-ready systems that solve real-world problems.
 
-- 🔭 I'm currently working as a **Java Full-stack Intern** at **VTI Education**.
+- 🔭 I’m currently working as a **Java Full-stack Intern** at **VTI Education**.
 - 💼 I have experience building **AI Automation Pipelines (n8n)** & **RAG Chatbots** at **Iart Holding**.
-- 🌱 I'm currently learning **Microservices Architecture** and **Advanced Cloud Deployment**.
+- 🌱 I’m currently learning **Microservices Architecture** and **Advanced Cloud Deployment**.
 - 🏆 **Achievements:** Full Scholarship for Java Training (VTI), Academic Excellence Scholarship (HaUI).
 - ⚡ **Fun fact:** I can turn a single image into a multi-platform marketing campaign using AI Automation!
 
@@ -65,37 +65,23 @@ I'm a final-year **Computer Science student** at **Hanoi University of Industry*
 | **[⚡ Automated Social Pipeline](https://github.com/Gonztbl)** | *Private Repo/Enterprise Solution.* A workflow that auto-generates content & images using GenAI and posts to FB, Zalo, Telegram from a single input. | n8n, OpenAI API, Webhooks |
 
 ---
-
 ### 📊 GitHub Stats
-
 <div align="center">
-  <!-- Activity Graph - Hàng trên cùng (full width) -->
-  <img width="100%" src="https://github.com/Gonztbl/Gonztbl/blob/main/profile-summary-card-output/radical/0-profile-details.svg" alt="GitHub Activity Graph" />
+  <!-- Sử dụng cùng theme radical cho nhất quán -->
+  <img src="https://github.com/Gonztbl/Gonztbl/blob/main/profile-summary-card-output/radical/3-stats.svg" alt="GitHub Stats" />
 </div>
-
-<div align="center" style="margin-top: 20px;">
-  <!-- Two cards in one row - Hàng dưới cùng -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gonztbl&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gonztbl&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
----
-
-### 🏙️ My Coding Activity
-
+### 📈 Activity Graph
 <div align="center">
-  <!-- 3D City -->
-  <img width="100%" src="https://github.com/Gonztbl/Gonztbl/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D City Contribution Graph" />
+  <img src="https://github.com/Gonztbl/Gonztbl/blob/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://github.com/Gonztbl/Gonztbl/blob/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top Languages" />
 </div>
-
+### 🏙️ My Coding Activity in 3D
 <div align="center">
-  <!-- Snake Animation -->
+  <img src="https://github.com/Gonztbl/Gonztbl/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D City" />
+</div>
+<div align="center">
   <img src="https://github.com/Gonztbl/Gonztbl/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
----
-
 <!-- Footer & Social -->
 <div align="center">
   <a href="https://www.linkedin.com/in/long-tr%E1%BB%8Bnh-b%E1%BA%A3o-485366317/">
@@ -109,3 +95,4 @@ I'm a final-year **Computer Science student** at **Hanoi University of Industry*
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Gonztbl&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </div>
+

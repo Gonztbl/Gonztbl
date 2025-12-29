@@ -69,10 +69,15 @@ I'm a final-year **Computer Science student** at **Hanoi University of Industry*
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Gonztbl/Gonztbl/main/profile-summary-card-output/react/3-stats.svg" alt="GitHub Streak" />
+  <!-- Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gonztbl&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  
+  <!-- Streak Stats -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gonztbl&theme=radical&hide_border=true" />
+  
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gonztbl&layout=compact&theme=radical&hide_border=true" />
 </div>
-<!-- 3D City Animation -->
-<!-- Activity Graph (Đã sửa link chuẩn) -->
 ### 📈 Activity Graph
 <div align="center">
   <img src="https://github.com/Gonztbl/Gonztbl/blob/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" />

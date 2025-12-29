@@ -69,9 +69,7 @@ I'm a final-year **Computer Science student** at **Hanoi University of Industry*
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gonztbl&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/Gonztbl/Gonztbl/main/profile-summary-card-output/react/3-stats.svg" alt="GitHub Streak" />
 </div>
 <!-- 3D City Animation -->
 <!-- Activity Graph (Đã sửa link chuẩn) -->

@@ -33,9 +33,9 @@
 
 I'm a final-year **Computer Science student** at **Hanoi University of Industry** with a strong passion for **Applied AI** and **Backend Engineering**. I don't just train models; I build production-ready systems that solve real-world problems.
 
-- 🔭 I’m currently working as a **Java Full-stack Intern** at **VTI Education**.
+- 🔭 I'm currently working as a **Java Full-stack Intern** at **VTI Education**.
 - 💼 I have experience building **AI Automation Pipelines (n8n)** & **RAG Chatbots** at **Iart Holding**.
-- 🌱 I’m currently learning **Microservices Architecture** and **Advanced Cloud Deployment**.
+- 🌱 I'm currently learning **Microservices Architecture** and **Advanced Cloud Deployment**.
 - 🏆 **Achievements:** Full Scholarship for Java Training (VTI), Academic Excellence Scholarship (HaUI).
 - ⚡ **Fun fact:** I can turn a single image into a multi-platform marketing campaign using AI Automation!
 

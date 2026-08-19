@@ -1,7 +1,7 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
+  schedule:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
@@ -10,15 +10,23 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4          # nâng cấp lên v4 để tránh cảnh báo Node
+        with:
+          fetch-depth: 0                   # lấy toàn bộ lịch sử để rebase dễ dàng
+
+      - name: Pull latest changes          # <--- THÊM BƯỚC NÀY
+        run: git pull origin main --rebase
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated"
-          git push
+          git commit -m "generated" || echo "No changes to commit"
+          git pull origin main --rebase   # lấy thêm các thay đổi có thể xảy ra trong lúc action chạy
+          git push origin main

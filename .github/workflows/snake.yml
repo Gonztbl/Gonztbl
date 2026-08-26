@@ -14,8 +14,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      - uses: Platane/snk@v3
-        id: snake-gif
+      - name: Debug - Check contribution data
+        run: |
+          echo "Fetching contribution data..."
+          curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+               "https://api.github.com/users/Gonztbl/events?per_page=5" | head -50
+      
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: Gonztbl
           outputs: |
@@ -23,8 +29,9 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+          
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist

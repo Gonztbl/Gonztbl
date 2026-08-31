@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */8 * * *" # Chạy mỗi 8 giờ để cập nhật snake animation
   workflow_dispatch:
 
 permissions:
@@ -13,12 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
-      - name: Debug - Check contribution data
-        run: |
-          echo "Fetching contribution data..."
-          curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-               "https://api.github.com/users/Gonztbl/events?per_page=5" | head -50
       
       - name: Generate Snake
         uses: Platane/snk@v3

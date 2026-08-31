@@ -2,7 +2,7 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 18 * * *"
+    - cron: "0 */6 * * *" # Chạy mỗi 6 giờ để cập nhật dữ liệu thường xuyên hơn
   workflow_dispatch:
 
 jobs:
@@ -10,9 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v4          # nâng cấp lên v4
+      - uses: actions/checkout@v4
         with:
-          fetch-depth: 0                   # lấy toàn bộ lịch sử
+          fetch-depth: 0 # lấy toàn bộ lịch sử
 
       - name: Pull latest changes (before generation)
         run: git pull origin main --rebase
@@ -27,6 +27,6 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated" || echo "No changes to commit"
-          git pull origin main --rebase   # kéo lần nữa phòng khi remote thay đổi trong lúc action chạy
+          git commit -m "generate 3d profile contribution" || echo "No changes to commit"
+          git pull origin main --rebase # kéo lần nữa phòng khi remote thay đổi trong lúc action chạy
           git push origin main

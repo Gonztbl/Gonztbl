@@ -75,22 +75,7 @@ I'm a final-year **Computer Science student** at **Hanoi University of Industry*
   <img src="https://github.com/Gonztbl/Gonztbl/blob/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" />
   <img src="https://github.com/Gonztbl/Gonztbl/blob/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top Languages" />
 </div>
-### 🏙️ My Coding Activity in 3D
-<div align="center">
-  <img src="https://github.com/Gonztbl/Gonztbl/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D City" />
-</div>
-<div align="center">
-  <img src="https://github.com/Gonztbl/Gonztbl/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-<!-- Footer & Social -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/long-tr%E1%BB%8Bnh-b%E1%BA%A3o-485366317/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:longtrinh.28072004@gmail.com">
-    <img src="https://img.shields.io/badge/Send_an_Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Gonztbl&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />

@@ -66,10 +66,7 @@ I'm a final-year **Computer Science student** at **Hanoi University of Industry*
 
 ---
 ### 📊 GitHub Stats
-<div align="center">
-  <!-- Sử dụng cùng theme radical cho nhất quán -->
-  <img src="https://github.com/Gonztbl/Gonztbl/blob/main/profile-summary-card-output/radical/3-stats.svg" alt="GitHub Stats" />
-</div>
+
 ### 📈 Activity Graph
 <div align="center">
   <img src="https://github.com/Gonztbl/Gonztbl/blob/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" />
